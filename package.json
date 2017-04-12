@@ -1,0 +1,28 @@
+{
+  "name": "react-marked-editor-demo",
+  "version": "0.1.0",
+  "description": "React Marked Editor Demo",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "keywords": [
+    "react",
+    "markdown",
+    "codemirror",
+    "editor"
+  ],
+  "dependencies": {
+    "babel-core": "^6.24.1",
+    "babel-loader": "^6.4.1",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-es2016": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "react": "^15.4.0",
+    "react-dom": "^15.4.0",
+    "react-marked-editor": "^0.0.1",
+    "webpack": "^1.13.0"
+  },
+  "author": "Loy B.",
+  "license": "MIT"
+}
