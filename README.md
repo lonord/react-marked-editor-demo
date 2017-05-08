@@ -1,6 +1,8 @@
 # react-marked-editor-demo
 demo of [react-marked-editor](https://github.com/lonord/react-marked-editor)
 
+**Note: This repo is no longer maintained**, check out [react-marked-editor](https://github.com/lonord/react-marked-editor) it self for demo.
+
 ### Screenshot
 
 ![screenshot](screenshot.png)
